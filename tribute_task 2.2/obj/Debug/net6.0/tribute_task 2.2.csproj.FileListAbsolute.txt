@@ -1,0 +1,62 @@
+C:\Users\razia\source\repos\tribute_task 2.2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\razia\source\repos\tribute_task 2.2\bin\Debug\net6.0\appsettings.json
+C:\Users\razia\source\repos\tribute_task 2.2\bin\Debug\net6.0\tribute_task 2.2.staticwebassets.runtime.json
+C:\Users\razia\source\repos\tribute_task 2.2\bin\Debug\net6.0\tribute_task 2.2.exe
+C:\Users\razia\source\repos\tribute_task 2.2\bin\Debug\net6.0\tribute_task 2.2.deps.json
+C:\Users\razia\source\repos\tribute_task 2.2\bin\Debug\net6.0\tribute_task 2.2.runtimeconfig.json
+C:\Users\razia\source\repos\tribute_task 2.2\bin\Debug\net6.0\tribute_task 2.2.dll
+C:\Users\razia\source\repos\tribute_task 2.2\bin\Debug\net6.0\tribute_task 2.2.pdb
+C:\Users\razia\source\repos\tribute_task 2.2\obj\Debug\net6.0\tribute_task 2.2.csproj.AssemblyReference.cache
+C:\Users\razia\source\repos\tribute_task 2.2\obj\Debug\net6.0\tribute_task 2.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razia\source\repos\tribute_task 2.2\obj\Debug\net6.0\tribute_task 2.2.AssemblyInfoInputs.cache
+C:\Users\razia\source\repos\tribute_task 2.2\obj\Debug\net6.0\tribute_task 2.2.AssemblyInfo.cs
+C:\Users\razia\source\repos\tribute_task 2.2\obj\Debug\net6.0\tribute_task 2.2.csproj.CoreCompileInputs.cache
+C:\Users\razia\source\repos\tribute_task 2.2\obj\Debug\net6.0\tribute_task 2.2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\razia\source\repos\tribute_task 2.2\obj\Debug\net6.0\tribute_task 2.2.RazorAssemblyInfo.cache
+C:\Users\razia\source\repos\tribute_task 2.2\obj\Debug\net6.0\tribute_task 2.2.RazorAssemblyInfo.cs
+C:\Users\razia\source\repos\tribute_task 2.2\obj\Debug\net6.0\staticwebassets\msbuild.tribute_task 2.2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\razia\source\repos\tribute_task 2.2\obj\Debug\net6.0\staticwebassets\msbuild.build.tribute_task 2.2.props
+C:\Users\razia\source\repos\tribute_task 2.2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.tribute_task 2.2.props
+C:\Users\razia\source\repos\tribute_task 2.2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.tribute_task 2.2.props
+C:\Users\razia\source\repos\tribute_task 2.2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\razia\source\repos\tribute_task 2.2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\razia\source\repos\tribute_task 2.2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\razia\source\repos\tribute_task 2.2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\razia\source\repos\tribute_task 2.2\obj\Debug\net6.0\scopedcss\bundle\tribute_task 2.2.styles.css
+C:\Users\razia\source\repos\tribute_task 2.2\obj\Debug\net6.0\scopedcss\projectbundle\tribute_task 2.2.bundle.scp.css
+C:\Users\razia\source\repos\tribute_task 2.2\obj\Debug\net6.0\tribute_task 2.2.dll
+C:\Users\razia\source\repos\tribute_task 2.2\obj\Debug\net6.0\refint\tribute_task 2.2.dll
+C:\Users\razia\source\repos\tribute_task 2.2\obj\Debug\net6.0\tribute_task 2.2.pdb
+C:\Users\razia\source\repos\tribute_task 2.2\obj\Debug\net6.0\tribute_task 2.2.genruntimeconfig.cache
+C:\Users\razia\source\repos\tribute_task 2.2\obj\Debug\net6.0\ref\tribute_task 2.2.dll
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\Tribute\tribute_task 2.2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\Tribute\tribute_task 2.2\bin\Debug\net6.0\appsettings.json
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\Tribute\tribute_task 2.2\bin\Debug\net6.0\tribute_task 2.2.staticwebassets.runtime.json
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\Tribute\tribute_task 2.2\bin\Debug\net6.0\tribute_task 2.2.exe
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\Tribute\tribute_task 2.2\bin\Debug\net6.0\tribute_task 2.2.deps.json
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\Tribute\tribute_task 2.2\bin\Debug\net6.0\tribute_task 2.2.runtimeconfig.json
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\Tribute\tribute_task 2.2\bin\Debug\net6.0\tribute_task 2.2.dll
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\Tribute\tribute_task 2.2\bin\Debug\net6.0\tribute_task 2.2.pdb
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\Tribute\tribute_task 2.2\obj\Debug\net6.0\tribute_task 2.2.csproj.AssemblyReference.cache
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\Tribute\tribute_task 2.2\obj\Debug\net6.0\tribute_task 2.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\Tribute\tribute_task 2.2\obj\Debug\net6.0\tribute_task 2.2.AssemblyInfoInputs.cache
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\Tribute\tribute_task 2.2\obj\Debug\net6.0\tribute_task 2.2.AssemblyInfo.cs
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\Tribute\tribute_task 2.2\obj\Debug\net6.0\tribute_task 2.2.csproj.CoreCompileInputs.cache
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\Tribute\tribute_task 2.2\obj\Debug\net6.0\tribute_task 2.2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\Tribute\tribute_task 2.2\obj\Debug\net6.0\tribute_task 2.2.RazorAssemblyInfo.cache
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\Tribute\tribute_task 2.2\obj\Debug\net6.0\tribute_task 2.2.RazorAssemblyInfo.cs
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\Tribute\tribute_task 2.2\obj\Debug\net6.0\staticwebassets\msbuild.tribute_task 2.2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\Tribute\tribute_task 2.2\obj\Debug\net6.0\staticwebassets\msbuild.build.tribute_task 2.2.props
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\Tribute\tribute_task 2.2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.tribute_task 2.2.props
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\Tribute\tribute_task 2.2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.tribute_task 2.2.props
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\Tribute\tribute_task 2.2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\Tribute\tribute_task 2.2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\Tribute\tribute_task 2.2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\Tribute\tribute_task 2.2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\Tribute\tribute_task 2.2\obj\Debug\net6.0\scopedcss\bundle\tribute_task 2.2.styles.css
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\Tribute\tribute_task 2.2\obj\Debug\net6.0\scopedcss\projectbundle\tribute_task 2.2.bundle.scp.css
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\Tribute\tribute_task 2.2\obj\Debug\net6.0\tribute_task 2.2.dll
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\Tribute\tribute_task 2.2\obj\Debug\net6.0\refint\tribute_task 2.2.dll
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\Tribute\tribute_task 2.2\obj\Debug\net6.0\tribute_task 2.2.pdb
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\Tribute\tribute_task 2.2\obj\Debug\net6.0\tribute_task 2.2.genruntimeconfig.cache
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\Tribute\tribute_task 2.2\obj\Debug\net6.0\ref\tribute_task 2.2.dll

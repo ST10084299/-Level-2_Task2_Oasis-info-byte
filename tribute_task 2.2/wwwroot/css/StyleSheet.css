@@ -1,0 +1,79 @@
+﻿@media only screen and (max-width: 600px) {
+    .content {
+        flex-direction: column; /* Change to column layout on smaller screens */
+    }
+
+    .image-container,
+    .bio {
+        flex: 1; /* Take up full width */
+        margin-left: 0; /* Reset margin */
+    }
+
+    .bio {
+        margin-top: 20px; /* Add margin between image and text */
+    }
+}
+
+body {
+    font-family: Gabriola;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #C0C0C0;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+.content {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+    font-size: 22px;
+    display: flex; /* Display content in a flexbox layout */
+    align-items: center; /* Align items vertically */
+}
+
+.image-container {
+    flex: 0 0 50%; /* Take up 50% of the container */
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.bio {
+    flex: 0 0 50%; /* Take up 50% of the container */
+    margin-left: 20px; /* Add some space between image and text */
+}
+
+footer {
+    background-color: #C0C0C0;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.quote {
+    background-color: #f9f9f9;
+    border-left: 10px solid #8B5A2B;
+    margin-top: 20px;
+    padding: 15px;
+}
+
+    .quote p {
+        font-style: italic;
+        margin: 0;
+        font-size: 22px;
+    }
